@@ -59,10 +59,10 @@ zata("aaabbc")
 # str1=str1+str(str3)
 # print(str1)
 
-# echo "# end-to-end-wind-quality" >> README.md
+# echo "# python-100-codes" >> README.md
 # git init
 # git add README.md
 # git commit -m "first commit"
 # git branch -M main
-# git remote add origin https://github.com/salgarhariom/end-to-end-wind-quality.git
+# git remote add origin https://github.com/salgarhariom/python-100-codes.git
 # git push -u origin main
