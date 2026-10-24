@@ -28,7 +28,7 @@
 #     l9=i.strip()
 # print(l9)
 # print(type(l9))
-
+# String compression
 
 def zata(str1):
     lst=[]
